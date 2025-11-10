@@ -1,0 +1,5 @@
+Create a fully functional e-commerce grocery website using React.js for the frontend (with React Router for navigation), Node.js with Express.js for the backend, and MongoDB Atlas for the database. 
+The site should allow users to log in via phone number verification (OTP), and then collect name, email, and address details (optional to skip until checkout). 
+The homepage should display grocery categories like Milk, Curd & Dairy; Vegetables & Fruits; Cakes & Biscuits; Aata, Rice & Dal; Oil, Ghee & Masala; Dry Fruits; Bakery; Drinks; Chocolates; and Toiletries, each linking to a page showing all items in that category with images, brand, price, discount, and expiry date. 
+The user should be able to filter or sort items by price or discount, view detailed product pages, and add products to a shopping cart with a visible cart icon showing the item count. Ensure a clean, responsive, and modern UI with smooth navigation.
+The backend should handle data operations, OTP verification, and cart state management, while the database should come preloaded with multiple grocery items and images automatically (no manual data entry required).
